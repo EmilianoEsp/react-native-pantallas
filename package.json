@@ -13,6 +13,10 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+    "react-native-imaged-carousel-card": "^0.1.1",
+    "react-native-paper": "^4.9.2",
+    "react-native-pdf": "^6.3.0",
+    "react-native-pdf-view": "^0.3.2",
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
